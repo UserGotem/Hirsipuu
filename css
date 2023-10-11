@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#hirsipuu {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+#sana {
+  margin-top: 20px;
+}
+
+#kirjaimet {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#syöte {
+  margin-top: 20px;
+}
+
+#kirjain {
+  width: 100px;
+  height: 30px;
+  border: 1px solid black;
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+#arvaa {
+  width: 100px;
+  height: 30px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
